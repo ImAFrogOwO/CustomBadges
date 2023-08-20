@@ -1,11 +1,11 @@
-[
+{
+  "users": [
   {
-    "id": "470193291053498369",
-    "data": {
-      "description": "Test Badge",
-      "icon": "https://abs-0.twimg.com/emoji/v2/svg/1f98a.svg",
-      "link": "https://discord.com",
-      "badgeId": "lucasBadge"
-    }
+    "id": 470193291053498369
+    "description": "Test Badge",
+    "icon": "https://abs-0.twimg.com/emoji/v2/svg/1f98a.svg",
+    "link": "https://discord.com",
+    "id": "lucasBadge"
   }
-]
+  ]
+}
